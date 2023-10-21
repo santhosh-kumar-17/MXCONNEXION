@@ -1,0 +1,6 @@
+
+{
+    "mongoURI":"mongodb+srv://santhosh:22mx222@cluster0.s0a9qqu.mongodb.net/devconnections",
+    "jwtSecret": "secret",
+    "githubToken": "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"
+  }
